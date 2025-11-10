@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+>>>>>>> origin/main
 # finnance_app
 =======
 # financeapp
