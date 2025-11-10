@@ -44,7 +44,7 @@ class _SplashScreenState extends State<SplashScreen>
       body: Stack(
         fit: StackFit.expand,
         children: [
-          Image.asset('assets/images/logofinnanceapp.png', fit: BoxFit.cover),
+          Image.asset('assets/images/logofinnanceapp.jpg', fit: BoxFit.cover),
           Container(color: Colors.black.withOpacity(0.3)),
           Center(
             child: FadeTransition(

@@ -18,9 +18,9 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 ![Tampilan Aplikasi](assets/images/splash_screen.jpg)
-![Tampilan Aplikasi](assets/images/tampilan_aplikasi(1).jpg)
-![Tampilan Aplikasi](assets/images/tampilan_aplikasi(2).jpg)
-![Tampilan Aplikasi](assets/images/tampilan_aplikasi(3).jpg)
-![Tampilan Aplikasi](assets/images/tampilan_aplikasi(4).jpg)
-![Tampilan Aplikasi](assets/images/tampilan_aplikasi(5).jpg)
+![Tampilan Aplikasi](assets/images/tampilan_aplikasi1.jpg)
+![Tampilan Aplikasi](assets/images/tampilan_aplikasi2.jpg)
+![Tampilan Aplikasi](assets/images/tampilan_aplikasi3.jpg)
+![Tampilan Aplikasi](assets/images/tampilan_aplikasi4.jpg)
+![Tampilan Aplikasi](assets/images/tampilan_aplikasi5.jpg)
 >>>>>>> origin/main
